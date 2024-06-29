@@ -1,7 +1,7 @@
 <h1 align="center">Hey Folks 👋, I'm Mohamed Rizwan M</h1>
 <h3 align="center">A passionate ML Engineer and full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedrizwanm&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedrizwanm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedrizwanm&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedrizwanm" /> </p>
 
 - 🔭 I’m currently working on **Adoption website for pets**
 
